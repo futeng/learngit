@@ -1,5 +1,3 @@
-I meet d
-I like her when I stay with her.
-I have crashed on her before I kissed her.
-But now we are in different cities.
-Git tracks changes this files.
+Hi~
+This is a brand new place, 
+All limit is your imagination.
