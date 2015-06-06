@@ -8,3 +8,4 @@ new modified
 # Git Command
 1. git init
 2. git push origin dev
+3. git branch
