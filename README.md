@@ -11,11 +11,9 @@ new modified
 4. Release
 5. Hotfix
 
-<<<<<<< Updated upstream
 # Git command
-1. git add
-2. git commit -m "descrip this commit"
-=======
-# Git commone command
-1. merge
->>>>>>> Stashed changes
+1. git init 
+2. git add
+3. git commit -m "descrip this commit"
+4. merge
+
