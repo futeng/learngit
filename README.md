@@ -17,3 +17,4 @@ new modified
 1. git add FILE
 2. git commit -m "modified FILE for some reason"
 3. git push origin branch-name
+4. git pull
