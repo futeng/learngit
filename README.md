@@ -18,3 +18,4 @@ new modified
 2. git commit -m "modified FILE for some reason"
 3. git push origin branch-name
 4. git pull
+5. `handle confilc then add commit again`
