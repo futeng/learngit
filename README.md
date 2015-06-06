@@ -7,3 +7,4 @@ new modified
 
 # Git Command
 1. git init
+2. git branch
