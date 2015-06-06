@@ -9,3 +9,8 @@ new modified
 1. git init
 2. git push origin dev
 3. git branch
+
+# Working together
+1. git add FILE
+2. git commit -m "modifed FILE"
+3. git push origin dev
