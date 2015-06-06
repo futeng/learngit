@@ -6,7 +6,15 @@ new modified
 
 
 # Git Command
-1. git init
+### Config
+1. git config --user.name "Your Name"
+2. git config --user.email "Your Email"
+3. git init
+4. git branch
+
+
+### Working together
+1. git push origin branch-name
 2. git push origin dev
 3. git branch
 
