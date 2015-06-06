@@ -10,3 +10,7 @@ new modified
 3. Feature
 4. Release
 5. Hotfix
+
+# Git command
+1. git add
+2. git commit -m "descrip this commit"
