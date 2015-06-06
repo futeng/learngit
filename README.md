@@ -8,3 +8,7 @@ new modified
 # Git Command
 1. git init
 2. git branch
+
+# Working together
+1. git push origin branch-name
+
