@@ -4,7 +4,6 @@
 3. git init
 4. git branch
 
-
 ### Working together
 
 1. Get romote info
@@ -36,7 +35,3 @@ git pull
 ```
 git add FILE
 git commit -m "modified FILE for some reason"
-git push origin branch-name
-```
-
-**Notice**: When remote version is more new than your local branch, which you can not commit directly. Your should pull first and solve conflics. 
